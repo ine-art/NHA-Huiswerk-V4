@@ -1,1 +1,77 @@
+header {
+    background-color: #ffa500;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+}
+footer {
+    background-color: #3f3ffe;
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+}
+table {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 600px;
+    height: 600px;
+    border-collapse: collapse;
+    margin-left: 200px;
+}
+td {
+    color: white;
+    width: 150px;
+    height: 150px;
+    border: 1px solid white;
+    text-align: center;
+}
+#K1R1 {           
+    background-color: #ff0000;
+}
+#K2R1 {
+    background-color: #0ddc0d;
+}
+#K3R1 {           
+    background-color: #3f3ffe;
+}
+#K4R1 {
+    background-color: #ffa500
+}
 
+#K1R2 {
+    background-color: #bc0202;
+}
+#K2R2 {           
+    background-color: #03ad03;
+}
+#K3R2 {
+    background-color: #2c2cab;
+}
+#K4R2 {
+    background-color: #9f6904;
+}          
+
+#K1R3 {
+    background-color: #680202;
+}
+#K2R3 {           
+    background-color: #026302
+}
+#K3R3 {
+    background-color: #17175c;
+}
+#K4R3 {
+    background-color: #5f3f03;
+} 
+
+#K1R4 {
+    background-color: #220101;
+}
+#K2R4 {           
+    background-color: #023202;
+}
+#K3R4 {
+    background-color: #120436;
+}
+#K4R4 {
+    background-color: #342201;
+} 
